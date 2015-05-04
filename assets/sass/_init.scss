@@ -1,0 +1,33 @@
+/**
+ * @file
+ * Initialization partial.
+ * Declare font stacks, variables, etc.
+ */
+
+// Font Stacks
+$times-new-roman: "Times New Roman", Times, Georgia, "DejaVu Serif", serif;
+$times: Times, "Times New Roman", Georgia, "DejaVu Serif", serif;
+$georgia: Georgia, "Times New Roman", "DejaVu Serif", serif;
+$verdana: Verdana, Tahoma, "DejaVu Sans", sans-serif;
+$tahoma: Tahoma, Verdana, "DejaVu Sans", sans-serif;
+$helvetica: Helvetica, Arial, "Nimbus Sans L", sans-serif;
+$arial: Arial, Helvetica, "Nimbus Sans L", sans-serif;
+
+// Type Definition
+$base-font-family: $helvetica;
+$base-font-size: 1.2em;
+$base-line-height: 1.4em;
+
+// Color Definition
+$gray-darkest: #333;
+$gray-dark: #666;
+$gray-medium: #aaa;
+$gray-light: #eee;
+$off-white: #fbfbfb;
+$blue-light: #0077dd;
+
+// Color Variables
+$text-color: $gray-darkest;
+$background-color: $gray-light;
+$active-color: $blue-light;
+$active-hover-color: darken($active-color, 15%);

@@ -1,0 +1,14 @@
+# Site settings
+title: Title of Site
+author: Name of Author
+email: your-email@domain.com
+description: Description of Site
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+exclude:
+  - /node_modules
+  - package.json
+  - gulpfile.js
+  - assets/sass/ #Compiling with Gulp

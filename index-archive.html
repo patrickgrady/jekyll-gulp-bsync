@@ -1,0 +1,14 @@
+---
+layout: default
+title: archive index
+permalink: /archive/index.html
+---
+
+<ul class="posts">
+  {% for post in site.posts %}
+    <li>
+      <h6>{{ post.date | date: "%b %d, %Y" }} | <a href="{{ site.baseurl }}/{{ post.categories }}">{{ post.categories }}</h6>
+      <h2 class="post__title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,12 @@
+---
+date: 2015-05-02
+layout: post
+categories: article
+title: Article Post Sample 3
+---
+
+Ellen Ripley (Sigourney Weaver) is rescued after drifting through space in stasis for 57 years. She is debriefed by her employers at the Weyland-Yutani Corporation over the destruction of her ship, the Nostromo; they are skeptical of her claims that an Alien killed the ship's crew and forced her to destroy the ship. Ripley later learns that LV-426, the planet where the Nostromo encountered the Alien eggs, is now home to a human terraforming colony, called Hadley's Hope.
+
+When contact is lost with Hadley's Hope, Weyland-Yutani representative Carter Burke and Colonial Marine Lieutenant Gorman approach Ripley about accompanying Burke and a Colonial Marine unit to investigate the cause of the disturbance. Traumatized by her previous encounter with the Alien, Ripley refuses, but relents after experiencing recurring nightmares about the creature; she makes Burke promise that they are going to destroy all of the Aliens. Aboard the spaceship U.S.S. Sulaco, she is introduced to the Colonial Marines, and the android Bishop, toward whom Ripley is initially hostile following her experience with the homicidal android Ash aboard the Nostromo.
+
+A dropship delivers the expedition to the surface of LV-426, where they find the colony deserted. Inside, they find makeshift barricades and signs of a violent struggle, but no bodies. Two living facehuggers are found in containment tanks in the medical lab. They discover a traumatized young girl, nicknamed Newt, to be the lone survivor, having used the extensive ventilation system to evade death. Meanwhile, the crew uses the colony's computer to locate the colonists, finding all of them grouped together beneath the fusion powered atmosphere processing station. The group heads to the colonists location, descending into a series of corridors covered in Alien secretions. At the center of the station, the marines find the colonists cocooned, serving as incubators for the Aliens' offspring. When the marines kill a newborn Alien, the Aliens are roused and attack the marines, killing and capturing several. While the inexperienced Gorman panics, Ripley takes control of their vehicle and rams it through the nest to rescue marines Hicks, Hudson, and Vasquez. Hicks orders the dropship to recover the survivors, but a stowaway Alien kills the pilots, causing it to crash. Ripley, Newt, Burke and the remaining marines barricade themselves inside the colony.

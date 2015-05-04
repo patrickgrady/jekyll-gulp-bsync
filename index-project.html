@@ -1,0 +1,15 @@
+---
+layout: default
+title: project index
+permalink: /project/index.html
+---
+
+<ul class="posts">
+  {% for post in site.categories.project %}
+    <li>
+      <h6>{{ post.date | date: "%b %d, %Y" }} | <a href="{{ site.baseurl }}/{{ post.categories }}/">{{ post.categories }}</a></h6>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    </li>
+  {% endfor %}
+</ul>
+
