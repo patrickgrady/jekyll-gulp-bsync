@@ -21,12 +21,12 @@ cd into/the/repository
 
 Now install the following npm packages locally:
 
-[Node-Sass](https://github.com/sass/node-sass):
+[Node-Sass](https://github.com/sass/node-sass)
 ~~~
 npm install node-sass
 ~~~
 
-[BrowserSync](http://www.browsersync.io/#install):
+[BrowserSync](http://www.browsersync.io/)
 ~~~
 npm install browser-sync
 ~~~
@@ -61,5 +61,7 @@ npm install gulp-sass
 npm install gulp-sourcemaps
 ~~~
 
-
-
+Now for the fun part. Type the following command and start developing!
+~~~
+gulp
+~~~
