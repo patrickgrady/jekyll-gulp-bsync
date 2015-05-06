@@ -61,7 +61,10 @@ npm install gulp-sass
 npm install gulp-sourcemaps
 ~~~
 
-Now for the fun part. Type the following command and start developing!
+##To Get Going
+Type the a single command to start the build system:
 ~~~
 gulp
 ~~~
+
+Sweet, sweet automation.
