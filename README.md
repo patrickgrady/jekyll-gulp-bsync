@@ -9,7 +9,16 @@ brew doctor
 brew install node
 ~~~
 
-Next install [Node-Sass](https://github.com/sass/node-sass):
+Now clone this repo:
+~~~
+git clone git@github.com:patrickgrady/jekyll-gulp-sass-starter.git
+~~~
+
+And navigate to it:
+~~~
+cd into/the/repository
+~~~
+and install [Node-Sass](https://github.com/sass/node-sass):
 ~~~
 npm install node-sass
 ~~~
