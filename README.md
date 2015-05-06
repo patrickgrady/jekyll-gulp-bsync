@@ -63,7 +63,7 @@ npm install gulp-sass
 npm install gulp-sourcemaps
 ~~~
 
-###Sweet Sweet Automation
+####Sweet, Sweet Automation
 A single word on the command line starts the build system and watches for changes.
 ~~~
 gulp
