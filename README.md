@@ -58,7 +58,7 @@ npm install gulp-rename
 npm install gulp-sass
 ~~~
 
-[gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps): Inspect Element — See Sass.
+[gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps): Inspect Element: See Sass.
 ~~~
 npm install gulp-sourcemaps
 ~~~
