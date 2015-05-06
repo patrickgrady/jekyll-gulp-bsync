@@ -23,12 +23,12 @@ cd into/the/repository
 
 Now install the following npm packages locally:
 
-[Node-Sass](https://github.com/sass/node-sass): Sass without the Ruby.
+[Node-Sass](https://github.com/sass/node-sass): Agnostic Sass!
 ~~~
 npm install node-sass
 ~~~
 
-[BrowserSync](http://www.browsersync.io/): Multi-device auto-updates.
+[BrowserSync](http://www.browsersync.io/): Auto-updating multi-device magic.
 ~~~
 npm install browser-sync
 ~~~
@@ -38,33 +38,33 @@ npm install browser-sync
 npm install gulp
 ~~~
 
-[gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer): Auto-prefixes CSS output so you don't have to.
+[gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer): Auto-prefixes CSS so you don't have to.
 ~~~
 npm install gulp-autoprefixer
 ~~~
 
-[gulp-minify-css](https://www.npmjs.com/package/gulp-minify-css): Save those those kbs and we save ourselves.
+[gulp-minify-css](https://www.npmjs.com/package/gulp-minify-css): Save those those precious kbs and we save ourselves.
 ~~~
 npm install gulp-minify-css
 ~~~
 
-[gulp-rename](https://www.npmjs.com/package/gulp-rename): Pretty self explanatory.
+[gulp-rename](https://www.npmjs.com/package/gulp-rename): Pretty self-explanatory.
 ~~~
 npm install gulp-rename
 ~~~
 
-[gulp-sass](https://www.npmjs.com/package/gulp-sass): So Node-Sass works in gulp.
+[gulp-sass](https://www.npmjs.com/package/gulp-sass): So Gulp can swallow Node-flavored Sass.
 ~~~
 npm install gulp-sass
 ~~~
 
-[gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps): See the Sass you wrote when you use the web inspector.
+[gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps): Inspect Element — See Sass.
 ~~~
 npm install gulp-sourcemaps
 ~~~
 
 ###Sweet Sweet Automation
-A single word on the command line starts the build system and watches for changes:
 ~~~
 gulp
 ~~~
+A single word on the command line starts the build system and watches for changes.
