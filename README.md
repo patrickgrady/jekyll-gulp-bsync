@@ -4,8 +4,10 @@ A starter kit for a Jekyll site using Gulp for Node-Sass and BrowserSync.
 ##Install Dependencies
 
 1. [Node JS](https://nodejs.org/)
-  brew update
-  brew doctor
+~~~
+brew update
+brew doctor
+~~~
 2. [NPM](http://blog.npmjs.org/post/85484771375/how-to-install-npm)
 3. [Node-Sass](https://github.com/sass/node-sass)
 3. [BrowserSync](http://www.browsersync.io/#install)
