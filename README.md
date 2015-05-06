@@ -1,7 +1,7 @@
 # jekyll-gulp-sass-starter
 A project starter kit for a Jekyll site using Gulp, Node-Sass, and BrowserSync.
 
-Streamline your workflow! Super-fast Sass processing, Sass in the web inspector, minified + autoprefixed CSS output, and live auto-updating everything to multiple devices — all from a single terminal command!
+Streamline your workflow — super-fast Sass processing, Sass in the web inspector, minified + autoprefixed CSS output, and live auto-updating everything to multiple devices — all from a single terminal command!
 
 ##To Get Started
 First install [Node JS](https://nodejs.org/) and [NPM](http://blog.npmjs.org/post/85484771375/how-to-install-npm). Homebrew makes this very easy, just type the following commands and you'll be good to go.
