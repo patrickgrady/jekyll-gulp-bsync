@@ -1,8 +1,8 @@
 # jekyll-gulp-sass-starter
 A starter kit for a Jekyll site using Gulp for Node-Sass and BrowserSync.
 
-##Install Dependencies
-First install [Node JS](https://nodejs.org/) and [NPM](http://blog.npmjs.org/post/85484771375/how-to-install-npm)
+##To Get Started
+If you don't have [Node JS](https://nodejs.org/) and [NPM](http://blog.npmjs.org/post/85484771375/how-to-install-npm), type the following:
 ~~~
 brew update
 brew doctor
