@@ -37,6 +37,10 @@ npm install browser-sync
 ~~~
 npm install gulp
 ~~~
+Or if you used Gulp before, install it globally.
+~~~
+npm install gulp -g
+~~~
 
 [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer): Auto-prefixes CSS so you don't have to.
 ~~~
