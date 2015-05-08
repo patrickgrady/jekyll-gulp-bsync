@@ -38,7 +38,7 @@ If you've never used Gulp before, install it globally.
 ~~~
 npm install gulp -g
 ~~~
-Otherwise
+Otherwise,
 ~~~
 npm install gulp
 ~~~
