@@ -34,12 +34,13 @@ npm install browser-sync
 ~~~
 
 [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md): A super flexible and customizable taskrunner.
-~~~
-npm install gulp
-~~~
-Or if you used Gulp before, install it globally.
+If you've never used Gulp before, install it globally.
 ~~~
 npm install gulp -g
+~~~
+Otherwise
+~~~
+npm install gulp
 ~~~
 
 [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer): Auto-prefixes CSS so you don't have to.
