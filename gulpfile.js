@@ -53,6 +53,7 @@ gulp.task('watch', function () {
   gulp.watch('./assets/sass/*.scss', ['sass', browserSync.reload]);
   gulp.watch([
     'assets/imgs/**/*',
+    'assets/css/**/*',
     'index*.html',
     '_config.yml',
     '_includes/*',
